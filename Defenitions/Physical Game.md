@@ -1,0 +1,1 @@
+A game that requires specific physical [[Component|components]] to function, such as tools for [[Randomness]], tactile interaction, or hidden information ( #ponder ). These elements are essential and cannot be fully replaced by mental simulation.

@@ -1,0 +1,1 @@
+A non [[Perfect Information]] game - games where some aspect of play is _hidden_ from [[Oppnent|opponents]].

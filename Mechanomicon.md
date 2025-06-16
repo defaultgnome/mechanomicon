@@ -1,0 +1,1 @@
+The premise is that we can encode and categorize all [[Game Mechanic|games mechanics]] into a "mathematic" system. So we can have a common language for [[Game|game]] design and rules.

@@ -1,0 +1,5 @@
+**Perfect information** is a situation where all [[Player|players]] in a game have knowledge of all relevant information in the system. This is different than [complete information](https://en.wikipedia.org/wiki/Complete_information "Complete information"), which implies [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_\(logic\) "Common knowledge (logic)") of each agent's utility functions, payoffs, strategies and "types". A system with perfect information may or may not have complete information.
+
+---
+__WIP:__
+In game theory, a [sequential game](https://en.wikipedia.org/wiki/Sequential_game "Sequential game") has perfect information if each player, when making any decision, is perfectly informed of all the events that have previously occurred, including the "initialization event" of the [game](https://en.wikipedia.org/wiki/Game "Game") (e.g. the starting hands of each player in a card game).

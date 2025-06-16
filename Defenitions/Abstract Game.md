@@ -1,0 +1,1 @@
+A game that can be played entirely in the imagination of the [[Player|player(s)]], without reliance on any physical [[Component|components]]. The components and visuals serve only as optional aids for memory or clarity.

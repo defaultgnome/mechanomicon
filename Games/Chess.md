@@ -1,0 +1,1 @@
+Chess is a [[Abstract Game]] [[Perfect Information]] [[Complete Information]] 

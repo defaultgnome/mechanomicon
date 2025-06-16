@@ -1,0 +1,1 @@
+a [[Player]] that you are in competition with.
