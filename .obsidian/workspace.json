@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defenitions/Variant.md",
+                "file": "Defenitions/Battle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variant"
+              "title": "Battle"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Defenitions/Variant.md",
+                "file": "Defenitions/Battle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Variant"
+              "title": "Backlinks for Battle"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Defenitions/Variant.md",
+                "file": "Defenitions/Battle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Variant"
+              "title": "Outgoing links from Battle"
             }
           },
           {
@@ -169,18 +169,20 @@
   },
   "active": "ed7b4a43e892543c",
   "lastOpenFiles": [
+    "Defenitions/Variant.md",
+    "Defenitions/Battle.md",
+    "Games/Rock-Paper-Scissors.md",
+    "Games/Tic-Tac-Toe.md",
+    "Games/Trivia.md",
+    "Games/Tiny Epic Galaxy.md",
     "Defenitions/Action.md",
     "Defenitions/State.md",
-    "Defenitions/Variant.md",
     "Defenitions/Competitve Game.md",
-    "Games/Rock-Paper-Scissors.md",
     "Defenitions/Game.md",
     "Defenitions/Abstract Game.md",
     "Games/Chess.md",
-    "Defenitions/Battle.md",
     "Defenitions/Victory.md",
     "Defenitions/Win Condition.md",
-    "Games/Trivia.md",
     "Defenitions/Component.md",
     "Defenitions/Variants",
     "Defenitions/Resource.md",
@@ -191,11 +193,9 @@
     "Defenitions/Physical Game.md",
     "Defenitions/Perfect Information.md",
     "Games/Go.md",
-    "Games/Tic-Tac-Toe.md",
     "Defenitions/Imperfect Information.md",
     "Defenitions/Randomness.md",
     "Defenitions/Oppnent.md",
-    "Defenitions/Player.md",
     "Defenitions",
     "Games"
   ]
