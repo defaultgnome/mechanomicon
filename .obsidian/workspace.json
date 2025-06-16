@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Rock-Paper-Scissors.md",
+                "file": "Defenitions/Variant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rock-Paper-Scissors"
+              "title": "Variant"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Rock-Paper-Scissors.md",
+                "file": "Defenitions/Variant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rock-Paper-Scissors"
+              "title": "Backlinks for Variant"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Rock-Paper-Scissors.md",
+                "file": "Defenitions/Variant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rock-Paper-Scissors"
+              "title": "Outgoing links from Variant"
             }
           },
           {
@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,27 +169,33 @@
   },
   "active": "ed7b4a43e892543c",
   "lastOpenFiles": [
-    "Defenitions/Game.md",
+    "Defenitions/Competitve Game.md",
     "Games/Rock-Paper-Scissors.md",
-    "Defenitions/Component.md",
-    "Defenitions/Complete Information.md",
+    "Defenitions/Game.md",
     "Defenitions/Abstract Game.md",
+    "Games/Chess.md",
+    "Defenitions/Battle.md",
+    "Defenitions/Victory.md",
+    "Defenitions/Win Condition.md",
+    "Defenitions/State.md",
+    "Defenitions/Action.md",
+    "Games/Trivia.md",
+    "Defenitions/Variant.md",
+    "Defenitions/Component.md",
+    "Defenitions/Variants",
+    "Defenitions/Resource.md",
+    "WIP.md",
+    "Defenitions/Complete Information.md",
     "Defenitions/Game Mechanic.md",
     "Mechanomicon.md",
-    "WIP.md",
     "Defenitions/Physical Game.md",
     "Defenitions/Perfect Information.md",
-    "Games/Chess.md",
     "Games/Go.md",
     "Games/Tic-Tac-Toe.md",
-    "Defenitions/Win Condition.md",
     "Defenitions/Imperfect Information.md",
     "Defenitions/Randomness.md",
     "Defenitions/Oppnent.md",
     "Defenitions/Player.md",
-    "Games/Tiny Epic Galaxy.md",
-    "Defenitions/Narrative Theme.md",
-    "Games/Cards - Battle.md",
     "Defenitions",
     "Games"
   ]

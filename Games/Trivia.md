@@ -1,0 +1,2 @@
+#ponder
+Auto balancing game – think about that if you ask a hard question to multiple participant and nobody knows - nobody is going out. it’s kind of making the game balance for the game master. It’s not balancing between the player, but balancing between the game master and all the player because the game master ask something that someone knows, but not not nobody knows.

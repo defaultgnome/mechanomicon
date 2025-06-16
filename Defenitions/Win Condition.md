@@ -1,0 +1,1 @@
+a predicate applied on a game’s [[State]], that when passes trigger a [[Victory]]. 
