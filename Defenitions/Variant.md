@@ -18,9 +18,9 @@ A **Rare Variant** is a Variant that appears with low statistical probability (s
 > **Usage:** “X is a Rare Variant of Y, with a drop/spawn/appearance chance of Z%.”
 
 **Examples:**
-- _Terraria_ – The Pink Slime is a Rare Variant of the regular Slime.
+- _Terraria_ – The Raincoat Zombie is a Rare Variant of the regular Zombie.
 - _Pokémon_ – Shiny Pokémon are Rare Variants with altered color palettes and identical base stats.
-- _Factorio_ – Quality items (e.g. Legendary) are Rare Variants of normal items with better stats (making it a Buffed Rare Variant).
+- *MTG* - The alternate art version of cards is strictly a Rare Variant of the base card.
 
 ### **Buffed Variant**
  A **Buffed Variant** is a Variant that exhibits strictly improved numeric attributes (e.g., damage, health, speed) but does not alter the core mechanics or behavior.  
