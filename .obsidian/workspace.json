@@ -181,16 +181,17 @@
   },
   "active": "ed7b4a43e892543c",
   "lastOpenFiles": [
+    "Defenitions/Battle.md",
+    "Games/Rock-Paper-Scissors.md",
+    "Games/Cards - Battle.md",
     "Games/Trivia.md",
     "Defenitions/Victory.md",
     "Defenitions/Variant.md",
     "Defenitions/State.md",
     "Defenitions/Resource.md",
     "Defenitions/Competitve Game.md",
-    "Defenitions/Battle.md",
     "Defenitions/Action.md",
     "Defenitions/Game.md",
-    "Games/Rock-Paper-Scissors.md",
     "Defenitions/Component.md",
     "Defenitions/Complete Information.md",
     "Defenitions/Abstract Game.md",
@@ -206,7 +207,6 @@
     "Defenitions/Imperfect Information.md",
     "Defenitions/Randomness.md",
     "Defenitions/Oppnent.md",
-    "Defenitions/Player.md",
     "Defenitions",
     "Games"
   ]
