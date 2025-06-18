@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defenitions/Battle.md",
+                "file": "Games/Rock-Paper-Scissors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Battle"
+              "title": "Rock-Paper-Scissors"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Defenitions/Battle.md",
+                "file": "Games/Rock-Paper-Scissors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Battle"
+              "title": "Backlinks for Rock-Paper-Scissors"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Defenitions/Battle.md",
+                "file": "Games/Rock-Paper-Scissors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Battle"
+              "title": "Outgoing links from Rock-Paper-Scissors"
             }
           },
           {
@@ -150,8 +150,19 @@
               "icon": "lucide-list",
               "title": "Outline of Rock-Paper-Scissors"
             }
+          },
+          {
+            "id": "ebb02f05b2c52e02",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -164,38 +175,38 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ed7b4a43e892543c",
   "lastOpenFiles": [
-    "Defenitions/Variant.md",
-    "Defenitions/Battle.md",
-    "Games/Rock-Paper-Scissors.md",
-    "Games/Tic-Tac-Toe.md",
     "Games/Trivia.md",
-    "Games/Tiny Epic Galaxy.md",
-    "Defenitions/Action.md",
-    "Defenitions/State.md",
-    "Defenitions/Competitve Game.md",
-    "Defenitions/Game.md",
-    "Defenitions/Abstract Game.md",
-    "Games/Chess.md",
     "Defenitions/Victory.md",
-    "Defenitions/Win Condition.md",
-    "Defenitions/Component.md",
-    "Defenitions/Variants",
+    "Defenitions/Variant.md",
+    "Defenitions/State.md",
     "Defenitions/Resource.md",
-    "WIP.md",
+    "Defenitions/Competitve Game.md",
+    "Defenitions/Battle.md",
+    "Defenitions/Action.md",
+    "Defenitions/Game.md",
+    "Games/Rock-Paper-Scissors.md",
+    "Defenitions/Component.md",
     "Defenitions/Complete Information.md",
+    "Defenitions/Abstract Game.md",
     "Defenitions/Game Mechanic.md",
     "Mechanomicon.md",
+    "WIP.md",
     "Defenitions/Physical Game.md",
     "Defenitions/Perfect Information.md",
+    "Games/Chess.md",
     "Games/Go.md",
+    "Games/Tic-Tac-Toe.md",
+    "Defenitions/Win Condition.md",
     "Defenitions/Imperfect Information.md",
     "Defenitions/Randomness.md",
     "Defenitions/Oppnent.md",
+    "Defenitions/Player.md",
     "Defenitions",
     "Games"
   ]
